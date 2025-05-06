@@ -1,0 +1,7 @@
+# .gitignore
+# ... other lines ...
+
+# Data files (especially large ones)
+Data/creditcard.csv
+# Or ignore the whole folder if none are needed by app.py:
+# Data/
